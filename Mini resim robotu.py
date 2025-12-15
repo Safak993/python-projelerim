@@ -17,6 +17,7 @@ elif resim.lower() == "kalp":
     print("  ******")
     print("   ****")
     print("    **")
+    print(f"\n(Robot):Ah ah bizimki kırık Ehm İşte Kalp resmin hazır!({isim})")
 elif resim.lower() == "kılıç":
    print(" ||")
    print(" |||")
@@ -26,6 +27,7 @@ elif resim.lower() == "kılıç":
    print("-------")
    print("  ***")
    print("  ***")
+   print(f"\n(Robot):İşte kılıç resmin hazır!({isim})")
 elif resim.lower() == "balta":
     print(" */***/")
     print(" */***/")
@@ -33,6 +35,7 @@ elif resim.lower() == "balta":
     print(" *")
     print(" *")
     print(" *")
+    print(f"\n(Robot):İşte balta resmin hazır!({isim})")
 elif resim.lower() == "kedi":
     print("  /\\\\_/\\\\")
     print(" |<o  o>|")
@@ -40,5 +43,6 @@ elif resim.lower() == "kedi":
     print(" |*****|")
     print("|*******|")
     print(" |/\\_/\\|")
+    print(f"\n(Robot):İşte kedi resmin hazır!({isim})")
 else:
     print("\n(system):Böyle bir resim yok")
