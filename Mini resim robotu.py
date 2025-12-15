@@ -40,4 +40,5 @@ elif resim.lower() == "kedi":
     print(" |*****|")
     print("|*******|")
     print(" |/\\_/\\|")
-else:("Böyle bir resim yok")
+else:
+    print("\n(system):Böyle bir resim yok")
