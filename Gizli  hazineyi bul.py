@@ -37,6 +37,9 @@ satir = 1
 sayac = 0
 hazine_satir = random.randint(0,2)
 hazine_sutun = random.randint(0,2)
+while hazine_satir == 1 and hazine_sutun == 1:
+    hazine_satir = random.randint(0, 2)
+    hazine_sutun = random.randint(0, 2)
 print("\nHarita")
 harita_ciz(satir, sutun)
 while True:
