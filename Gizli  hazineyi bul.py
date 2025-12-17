@@ -74,6 +74,8 @@ while True:
     if satir == hazine_satir and sutun == hazine_sutun:
         print("\n🎁 🎁 🎁\n🎁 🎁 🎁\n🎁 🎁 🎁")
         print("\n(System):Gizli Hazineyi buldun 🎉")
+        print("\n(System):Kaç denemede bulduğunuz hesaplanıyor...")
+        time.sleep(1.5)
         print(f"\n(System):Tam olarak{sayac}Denemede buldun🎉")
         break
     if sayac == 4:#4 Hakkın var biterse Kaybedersin
