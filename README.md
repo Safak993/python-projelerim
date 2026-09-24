@@ -12,4 +12,7 @@ Discord: **mirac2_2**
 ---
 
 > ⚠️ (İlk projem, lütfen hemen eleştirmeyiniz 😅 Python öğrenmeye tam gaz devam!)
+<
+
+
 #Not Pythona ilk başladığım dönemlerde yazdığım kodlardır. kısacası ilk göz ağrım :)
