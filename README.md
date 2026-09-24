@@ -15,4 +15,4 @@ Discord: **mirac2_2**
 <
 
 
-# Not Pythona ilk başladığım dönemlerde yazdığım kodlardır. kısacası ilk göz ağrım :)
+## 📧 Not Pythona ilk başladığım dönemlerde yazdığım kodlardır. kısacası ilk göz ağrım :)
