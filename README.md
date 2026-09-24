@@ -7,7 +7,7 @@ Bugün ilk projemi yaptım ve bir sürü kod öğrendim 😄
 
 ## 📫 Ulaşım
 
-Discord: **mirac2_2**  
+Discord: **porius_12_48383*  
 
 ---
 
